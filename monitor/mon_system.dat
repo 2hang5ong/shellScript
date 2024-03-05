@@ -1,0 +1,10 @@
+genunix
+scsi
+emerg
+alert
+crit
+kern.error
+error
+Fail
+fail
+sogoupinyin-watchdog
